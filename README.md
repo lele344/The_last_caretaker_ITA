@@ -15,7 +15,7 @@ Per installarla basta copiare alcuni file nella cartella principale del gioco.
 ## 📂 Dove trovare la cartella del gioco
 Se hai il gioco su **Steam**:
 1. Apri la Libreria di Steam
-2. Clicca con il tasto destro su **Day of the Shell**
+2. Clicca con il tasto destro su **The Last Caretaker**
 3. Vai su **Gestisci → Sfoglia file locali**
 
 Si aprirà la cartella principale del gioco (root).
@@ -26,7 +26,7 @@ Si aprirà la cartella principale del gioco (root).
 
 Identifica dove hai installato il gioco (la cartella si chiama Voyage).
 
-apri di nuovo Voyage, Content, Paks e incolla i tre files della mod.
+**apri di nuovo Voyage, Content, Paks e incolla i tre files della mod.**
 
 ```text
     📂 Voyage
