@@ -33,9 +33,9 @@ Identifica dove hai installato il gioco (la cartella si chiama Voyage).
     └──📂 Voyage
         └── 📂 Content
             └── 📂 Paks
-                ├── pakchunk9-Windows_Italian.pak
-                ├── pakchunk9-Windows_Italian.ucas
-                └── pakchunk9-Windows_Italian.utoc
+                ├── pakchunk9-Windows_Italiano.pak
+                ├── pakchunk9-Windows_Italiano.ucas
+                └── pakchunk9-Windows_Italiano.utoc
 ```
 
 Lancia il gioco per averlo in italiano.
@@ -49,7 +49,7 @@ Per rimuovere la mod sarà sufficiente cancellare i tre file
     └──📂 Voyage
         └── 📂 Content
             └── 📂 Paks
-                ├── pakchunk9-Windows_Italian.pak
-                ├── pakchunk9-Windows_Italian.ucas
-                └── pakchunk9-Windows_Italian.utoc
+                ├── pakchunk9-Windows_Italiano.pak
+                ├── pakchunk9-Windows_Italiano.ucas
+                └── pakchunk9-Windows_Italiano.utoc
 ```
